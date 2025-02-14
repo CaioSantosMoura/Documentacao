@@ -82,10 +82,7 @@ ng serve
 ----
 
 === 7. Acesse a Aplicação
-Abra o navegador e acesse a aplicação na URL: 
-----
-http://localhost:4200.
-----
+Abra o navegador e acesse a aplicação na URL: ```http://localhost:4200.```
 
 == 📃 Documentação da API
 A API do Sistema de Gerenciamento de Biblioteca foi documentada
