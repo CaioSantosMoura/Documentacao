@@ -20,9 +20,11 @@ usuários.
 
 == 📦 Tecnologias Utilizadas
 === 1. Frontend
+
 - **Angular**: Framework utilizado para o desenvolvimento da
 interface de usuário, permitindo uma aplicação interativa e
 responsiva.
+
 === 2. Backend
 - **Spring Boot (Java)**: Framework utilizado para o desenvolvimento
 da API, que gerencia os empréstimos, os livros e os usuários.
