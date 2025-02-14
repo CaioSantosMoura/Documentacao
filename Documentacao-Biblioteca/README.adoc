@@ -102,10 +102,7 @@ http://localhost:8080/swagger-ui.html
 
 == 💼 Contribuindo
 1. **Faça um fork do repositório.**
-2. **Crie uma nova branch** 
- ```
- (git checkout -b feature-nome-da-feature).
- ```
+2. **Crie uma nova branch** ```(git checkout -b feature-nome-da-feature).```
 3. **Faça as alterações e commit** 
   ```
 (git commit -am &#39;Adiciona nova feature&#39;).
