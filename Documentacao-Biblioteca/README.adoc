@@ -95,10 +95,8 @@ utilizando Swagger, permitindo uma visualização interativa e detalhada de tod
 2. **POST /api/loans**: Cria um novo empréstimo de livro.
 3. **GET /api/loans/{id}**: Obtém os detalhes de um empréstimo específico.
 4. **PUT /api/loans/{id}**: Atualiza informações de um empréstimo.
-5. **DELETE /api/loans/{id}**: Cancela um empréstimo. Para acessar a documentação completa da API no Swagger, inicie o servidor backend e acesse:
-----
-http://localhost:8080/swagger-ui.html
-----
+5. **DELETE /api/loans/{id}**: Cancela um empréstimo. Para acessar a documentação completa da API no Swagger, inicie o servidor backend e acesse:```http://localhost:8080/swagger-ui.html
+```
 
 == 💼 Contribuindo
 1. **Faça um fork do repositório.**
